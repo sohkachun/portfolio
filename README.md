@@ -1,10 +1,10 @@
-<h1>Hi, I'm Casey! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Casey! <br/><a href="https://github.com/sohkachun">Data Science and Machine Learning Graduate</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 DS and ML :</h2>
 
-- <b>Data Science Project (AlgoExpert)</b>
+- <b>Data Science Project (Flask, MLflow, Azure, Docker, and Machine Learning Components)</b>
   - [Student Performance Prediction](https://github.com/sohkachun/student-performance-prediction)
-- <b>Machine Learning Practice (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Machine Learning Practice </b>
   - [Computer Vision](https://github.com/sohkachun/computer-vision)
   - [NLP](https://github.com/sohkachun/NLP)
 
@@ -13,7 +13,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Casey Soh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/casey-soh-442098b9/
 
